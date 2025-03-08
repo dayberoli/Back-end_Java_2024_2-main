@@ -16,7 +16,9 @@ Siga os passos:
 */
 
 public class Main {
+    // método é uma função criada dentro de uma classe
     public static void main(String[] args) {
         System.out.println("Olá, Java! Este é meu primeiro programa no Senac Rio.");
+        System.out.print("Olá mesmo!");
     }
 }

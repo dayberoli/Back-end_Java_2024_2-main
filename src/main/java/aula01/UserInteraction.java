@@ -30,6 +30,12 @@ public class UserInteraction {
 
         System.out.println("Olá, " + name + "! Você tem " + age + " anos.");
 
+
+        System.out.println(10 + 10);   // Somar
+        System.out.println("10" + 10); // Concatenar
+        System.out.println(10 + "10"); // Concatenar
+
+
         scanner.close();
     }
 }
