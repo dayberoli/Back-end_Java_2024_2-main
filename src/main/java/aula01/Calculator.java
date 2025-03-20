@@ -20,7 +20,9 @@ Siga os passos:
 import java.util.Scanner;
 
 public class Calculator {
+
     public static void main(String[] args) {
+
         // Cria um objeto chamado `scanner` do tipo `Scanner` que se conecta ao `System.in` do Java.
         Scanner scanner = new Scanner(System.in);
 
